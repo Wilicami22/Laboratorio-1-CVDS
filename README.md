@@ -5,6 +5,7 @@
 ![Image](/Images/Imagen1.png)
 
 2. Agregamos el archivo README en el repositorio
+
 ![Image](/Images/Screenshot%202025-01-22%20081230.png)
 
 3. 
@@ -30,3 +31,8 @@
 ![Image](/Images/Screenshot%202025-01-22%20083237.png)
 
 ![Image](/Images/Screenshot%202025-01-22%20083307.png)
+
+8. Configuramos el correo en Git
+
+![Image](/Images/Screenshot%202025-01-22%20084742.png)
+
