@@ -49,6 +49,6 @@
 1. William Sera el Propietario del repositorio y Manuel el Colaborador
 
 2. Invitamos a Manuel y Nicolas en el repositorio  
-![Image](/Images/Screenshot%202025-01-22%20090846.png)
+![Image](/Images/Screenshot%202025-01-22%20092143.png)
 
 
