@@ -1,5 +1,10 @@
 # Laboratorio N1
-## Parte 1 (Parte Individual) 
+## Integrantes
+- Manuel David Robayo Vega
+- Nicolas Esteban Toro Criollo
+- William Camilo Hernandez Deaza
+## Respuestas
+### Parte 1 (Parte Individual) 
 1. Empezamos creando el repositorio local
 
 ![Image](/Images/Imagen1.png)
@@ -20,7 +25,7 @@
 
 5. Creamos un repositorio en blanco en git
 
-![Image](/Images/Screenshot%202025-01-22%20082241.png)
+![Image](/Images/Screenshot%202025-01-22%20085406.png)
 
 6. Enlazamos el repositorio local con el repositorio Remoto
 
@@ -35,4 +40,15 @@
 8. Configuramos el correo en Git
 
 ![Image](/Images/Screenshot%202025-01-22%20084742.png)
+
+9. Despues de subir los cambios, comprobamos que todo esta correcto y funcionando
+
+![Image](/Images/Screenshot%202025-01-22%20085622.png)
+
+### Parte 2 (Trabajo en parejas)
+1. William Sera el Propietario del repositorio y Manuel el Colaborador
+
+2. Invitamos a Manuel y Nicolas en el repositorio  
+![Image](/Images/Screenshot%202025-01-22%20090846.png)
+
 
