@@ -41,14 +41,30 @@
 
 ![Image](/Images/Screenshot%202025-01-22%20084742.png)
 
+
 9. Despues de subir los cambios, comprobamos que todo esta correcto y funcionando
 
 ![Image](/Images/Screenshot%202025-01-22%20085622.png)
 
 ### Parte 2 (Trabajo en parejas)
-1. William Sera el Propietario del repositorio y Manuel el Colaborador
+1. William Sera el Propietario del repositorio, Manuel y Nicolas serán los Colaboradores
 
 2. Invitamos a Manuel y Nicolas en el repositorio  
 ![Image](/Images/Screenshot%202025-01-22%20092143.png)
 
+3.	El owner le comparte la url via Teams al colaborador
+
+4.	El colaborador acepta la invitación al repositorio
+
+5.	Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
+    ![Image](/Images/man01.png)
+
+6.	¿Que sucedió?
+
+7.	La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos `<<<` `===` y `>>>` (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
+         
+         
+8.	Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+   
+9.	Resuelvan el conflicto con IntelliJ si es posible,
 
