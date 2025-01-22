@@ -1,5 +1,10 @@
 # Laboratorio N1
-## Parte 1 (Parte Individual) 
+## Integrantes
+- Manuel David Robayo Vega
+- Nicolas Esteban Toro Criollo
+- William Camilo Hernandez Deaza
+## Respuestas
+### Parte 1 (Parte Individual) 
 1. Empezamos creando el repositorio local
 
 ![Image](/Images/Imagen1.png)
@@ -20,7 +25,7 @@
 
 5. Creamos un repositorio en blanco en git
 
-![Image](/Images/Screenshot%202025-01-22%20082241.png)
+![Image](/Images/Screenshot%202025-01-22%20085406.png)
 
 6. Enlazamos el repositorio local con el repositorio Remoto
 
@@ -37,20 +42,29 @@
 ![Image](/Images/Screenshot%202025-01-22%20084742.png)
 
 
-## PARTE II (Trabajo en parejas)
+9. Despues de subir los cambios, comprobamos que todo esta correcto y funcionando
 
-1.	Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
+![Image](/Images/Screenshot%202025-01-22%20085622.png)
 
-2.	El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
-   
+### Parte 2 (Trabajo en parejas)
+1. William Sera el Propietario del repositorio, Manuel y Nicolas serán los Colaboradores
+
+2. Invitamos a Manuel y Nicolas en el repositorio  
+![Image](/Images/Screenshot%202025-01-22%20090846.png)
+
 3.	El owner le comparte la url via Teams al colaborador
+
 4.	El colaborador acepta la invitación al repositorio
+
 5.	Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
     ![Image](/Images/man01.png)
+
 6.	¿Que sucedió?
+
 7.	La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos `<<<` `===` y `>>>` (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
          
          
 8.	Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
    
 9.	Resuelvan el conflicto con IntelliJ si es posible,
+
