@@ -61,6 +61,8 @@
 
 6.	¿Que sucedió?
 
+No permitió subir los avances de los dos colaboradores, al intentar modificar y subir dos archivos simultaneamente, ejecuta problemas de fusión.
+
 7.	La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos `<<<` `===` y `>>>` (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
          
          
