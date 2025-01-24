@@ -54,7 +54,10 @@
 
 3.	El owner le comparte la url via Teams al colaborador
 
+4. El colaborador acepta la invitación al repositorio.
 
+    Nicolas y Manuel aceptaron la invitación de William, apareciendo el siguiente mensaje:
+   ![Image](/Images/toro03.jpg)
 
 5.	Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
     ![Image](/Images/man01.png)
@@ -64,9 +67,12 @@
 No permitió subir los avances de los dos colaboradores, al intentar modificar y subir dos archivos simultaneamente, ejecuta problemas de fusión.
 
 7.	La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos `<<<` `===` y `>>>` (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
-         
+
          
 8.	Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
-    Cada integrante del equipo realiza los respecivos cambios desde su dispositivo y todos intentan realizar los cambios
-9.	Resuelvan el conflicto con IntelliJ si es posible,
 
+    Cada integrante del equipo realiza los respecivos cambios desde su dispositivo y todos intentan realizar los cambios
+
+    ![Image](/Images/toro02.jpg)
+
+9.	Resuelvan el conflicto con IntelliJ si es posible,
