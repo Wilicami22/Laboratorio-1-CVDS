@@ -54,7 +54,7 @@
 
 3.	El owner le comparte la url via Teams al colaborador
 
-4.	El colaborador acepta la invitación al repositorio
+
 
 5.	Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
     ![Image](/Images/man01.png)
