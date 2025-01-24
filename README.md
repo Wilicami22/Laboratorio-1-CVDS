@@ -81,3 +81,16 @@ Cada integrante del equipo realiza los respecivos cambios desde su dispositivo y
 Decidimos elegir el aporte de la izquierda para solucionar el problema.
 
    ![Image](/Images/man04.png)
+
+2. ¿Qué es y como funciona el Pull Request?
+
+Un Pull Request (PR) es una herramienta de GitHub que permite a los desarrolladores solicitar la revisión y aprobación de cambios en un proyecto.
+Para poder hacer un PR se deben seguir los siguientes pasos:
+    1. Crear una rama paralela
+    2. Realizar los cambios en la rama
+    3. Subir los cambios al repositorio remoto
+    4. Crear el PR en el repositorio remoto
+    5. Seleccionar la rama principal como destino
+    6. Indicar la rama con los cambios como comparación
+    7. Asignar un comentario al propietario del repositorio
+    8. Crear el PR
