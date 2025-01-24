@@ -67,8 +67,6 @@ No permitió subir los avances de los dos colaboradores, al intentar modificar y
          
          
 8.	Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
-   
-    Se hicieron cambios en distintos dispositivos, con el propósitos de tener conflictos.
-
+    Cada integrante del equipo realiza los respecivos cambios desde su dispositivo y todos intentan realizar los cambios
 9.	Resuelvan el conflicto con IntelliJ si es posible,
 
