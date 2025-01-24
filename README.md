@@ -82,6 +82,11 @@ Decidimos elegir el aporte de la izquierda para solucionar el problema.
 
    ![Image](/Images/man04.png)
 
+## PARTE III (Trabajo de a parejas)
+1.	¿Hay una mejor forma de trabajar con git para no tener conflictos?
+      La mejor forma para trabajar en equipo en Git reduciendo los conflictos es usando ramas ya que cada colaborador puede trabajar
+      en su propia rama y desarrollar diferentes funcionalidades sin interferir en el trabajo de los demás.
+
 2. ¿Qué es y como funciona el Pull Request?
 
 Un Pull Request (PR) es una herramienta de GitHub que permite a los desarrolladores solicitar la revisión y aprobación de cambios en un proyecto.
