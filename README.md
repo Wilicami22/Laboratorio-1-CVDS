@@ -76,3 +76,7 @@ No permitió subir los avances de los dos colaboradores, al intentar modificar y
     ![Image](/Images/toro02.jpg)
 
 9.	Resuelvan el conflicto con IntelliJ si es posible,
+
+Decidimos elegir el aporte de la izquierda para solucionar el problema.
+
+   ![Image](/Images/man04.png)
