@@ -68,12 +68,13 @@ No permitió subir los avances de los dos colaboradores, al intentar modificar y
 
 7.	La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos `<<<` `===` y `>>>` (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
 
+![Image](/Images/toro04.png)
          
 8.	Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
 
-    Cada integrante del equipo realiza los respecivos cambios desde su dispositivo y todos intentan realizar los cambios
+Cada integrante del equipo realiza los respecivos cambios desde su dispositivo y todos intentan realizar los cambios
 
-    ![Image](/Images/toro02.jpg)
+![Image](/Images/toro02.jpg)
 
 9.	Resuelvan el conflicto con IntelliJ si es posible,
 
