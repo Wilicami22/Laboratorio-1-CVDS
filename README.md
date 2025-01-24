@@ -50,11 +50,11 @@
 1. William Sera el Propietario del repositorio, Manuel y Nicolas serán los Colaboradores
 
 2. Invitamos a Manuel y Nicolas en el repositorio  
-![Image](/Images/Screenshot%202025-01-22%20090846.png)
+![Image](/Images/Screenshot%202025-01-22%20092143.png)
 
 3.	El owner le comparte la url via Teams al colaborador
 
-4.	El colaborador acepta la invitación al repositorio
+
 
 5.	Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
     ![Image](/Images/man01.png)
