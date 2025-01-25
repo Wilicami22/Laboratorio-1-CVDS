@@ -100,8 +100,12 @@ Para poder hacer un PR se deben seguir los siguientes pasos:
     7. Asignar un comentario al propietario del repositorio
     8. Crear el PR
 
-3. Creen una rama cada uno y suban sus cambios. 
- 
+3. Creen una rama cada uno y suban sus cambios.  
+
    ![Image](/Images/man05.png)
    ![Image](/Images/William1.png)
+
+4.	Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
+
+5.	Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
 
