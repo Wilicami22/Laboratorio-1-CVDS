@@ -83,9 +83,9 @@ Decidimos elegir el aporte de la izquierda para solucionar el problema.
    ![Image](/Images/man04.png)
 
 ## PARTE III (Trabajo de a parejas)
-1.	¿Hay una mejor forma de trabajar con git para no tener conflictos?
-      La mejor forma para trabajar en equipo en Git reduciendo los conflictos es usando ramas ya que cada colaborador puede trabajar
-      en su propia rama y desarrollar diferentes funcionalidades sin interferir en el trabajo de los demás.
+1.	¿Hay una mejor forma de trabajar con git para no tener conflictos?  
+La mejor forma para trabajar en equipo en Git reduciendo los conflictos es usando ramas ya que cada colaborador puede trabajar
+en su propia rama y desarrollar diferentes funcionalidades sin interferir en el trabajo de los demás.
 
 2. ¿Qué es y como funciona el Pull Request?
 
@@ -100,7 +100,8 @@ Para poder hacer un PR se deben seguir los siguientes pasos:
     7. Asignar un comentario al propietario del repositorio
     8. Crear el PR
 
-3. Creen una rama cada uno y suban sus cambios.  
+3. Creen una rama cada uno y suban sus cambios. 
+ 
    ![Image](/Images/man05.png)
    ![Image](/Images/William1.png)
 
