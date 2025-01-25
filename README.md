@@ -100,5 +100,8 @@ Para poder hacer un PR se deben seguir los siguientes pasos:
     7. Asignar un comentario al propietario del repositorio
     8. Crear el PR
 
-3. Creen una rama cada uno y suban sus cambios.  
+3. Creen una rama cada uno y suban sus cambios. 
+ 
    ![Image](/Images/man05.png)
+   ![Image](/Images/William1.png)
+
