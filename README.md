@@ -104,6 +104,7 @@ Para poder hacer un PR se deben seguir los siguientes pasos:
 
    ![Image](/Images/man05.png)
    ![Image](/Images/William1.png)
+   ![Image](/Images/toro05.png)
 
 4.	Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
 
